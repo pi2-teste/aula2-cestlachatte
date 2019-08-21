@@ -29,7 +29,7 @@ public class JFrameCustomizadoView extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setPreferredSize(new java.awt.Dimension(300, 400));
-        setSize(new java.awt.Dimension(0, 0));
+        setSize(new java.awt.Dimension(20, 20));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
