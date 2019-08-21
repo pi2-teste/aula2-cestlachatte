@@ -1,5 +1,5 @@
 # Aula 2 - Introdução a Janelas
-Objetivo: Apresentar o funcionamento e os tipos de janelas no Netbeans
+Objetivo: Trolar a geral
 
 ### Tarefa 1 - JFrame - Tamanho da janela
 1.1 Altere o tamanho da janela JFrameCustomizadoView:
